@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+	 <title>Ejemplo2</title>
+</head>
+<body>
+
+     <h3> La fecha actual es: <span id="fecha"></span><h3>
+	 <p> Si multiplico el segundo actual(<span id="segundos"></span>)por el valor de PI, 
+	 obtenemos un numero <span id="paridad"></span> (<span id="resultado"></span>).
+	 
+	 
+	 <script type="text/javascript" src="ejemplo2.js"></script>
+</body>
+</html>
